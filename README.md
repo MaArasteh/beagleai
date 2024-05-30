@@ -27,4 +27,4 @@ or, for Windows:
 python main.py
 ```
 ### Using .exe file (for Windows)(Windows 8, 10, 11)
-Download it from Releases and run it by double-clicking or single-clicking on it
+Download it from [Releases page](https://github.com/MaArasteh/beagleai/releases) and run it by double-clicking or single-clicking on it
